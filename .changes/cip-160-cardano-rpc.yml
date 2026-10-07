@@ -1,0 +1,8 @@
+project: cardano-rpc
+pr: 2
+kind:
+  - compatible
+  - bugfix
+  - test
+description: |
+  Preserve protected full-address identity while payment/stake credential filters accept either eligible address form. Handle Guarding and per-output Receiving evaluation entries without dropping their indices, separate redeemers, budgets or traces; their purposes use the wire schema's unspecified enum value.
