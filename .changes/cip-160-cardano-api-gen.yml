@@ -1,5 +1,5 @@
 project: cardano-api-gen
-pr: 1370
+pr: 2
 kind:
   - breaking
 description: |

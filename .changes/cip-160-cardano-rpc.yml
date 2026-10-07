@@ -1,5 +1,5 @@
 project: cardano-rpc
-pr: 1370
+pr: 2
 kind:
   - compatible
   - bugfix

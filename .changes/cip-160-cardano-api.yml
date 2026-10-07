@@ -1,5 +1,5 @@
 project: cardano-api
-pr: 1370
+pr: 2
 kind:
   - breaking
   - feature
